@@ -48,3 +48,9 @@ git commit -m "Initial"
 ```bash
 git push
 ```
+
+## Web Page URL
+
+```bash
+https://yyyeji-bigmac-kiosk-demo-kiosk-triio8.streamlit.app
+```
